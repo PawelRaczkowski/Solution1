@@ -2,6 +2,7 @@ import requests
 import time
 import subprocess
 
+
 class Test():
     def __init__(self) -> None:
         self.domain_to_test = "google.com"
